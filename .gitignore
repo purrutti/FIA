@@ -1,0 +1,76 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+#Visual
+**/packages/
+**/bin/
+**/obj/
+**/.vs/
+
+*.vcxproj*
+
+#Arduino
+**/Debug/
+**/__vm/
+/Data
+/Regul_Condition - FACEIT/Regul_Condition/Release/Regul_Condition.with_bootloader.hex
+/Regul_Condition - FACEIT/Regul_Condition/Release/Regul_Condition.ino.with_bootloader.hex
+/Regul_Condition - FACEIT/Regul_Condition/Release/Regul_Condition.ino.hex
+/Regul_Condition - FACEIT/Regul_Condition/Release/Regul_Condition.ino.elf
+/Regul_Condition - FACEIT/Regul_Condition/Release/Regul_Condition.ino.eep
+/Regul_Condition - FACEIT/Regul_Condition/Release/Regul_Condition.hex
+/Regul_Condition - FACEIT/Regul_Condition/Release/Regul_Condition.elf
+/Regul_Condition - FACEIT/Regul_Condition/Release/Regul_Condition.eep
+/Regul_Condition - FACEIT/Regul_Condition/Release/board.buildinfo
